@@ -64,29 +64,6 @@ The dashboard relies on data from a pizza sales database. Example data might inc
 
 ## Snap 2- ![Image](https://github.com/user-attachments/assets/fe1260e9-e8aa-4cce-a3c9-7b861d45b8de)
 
-## Contributing
-
-Contributions to improve this dashboard are welcome! Here are a few ways you can contribute:
-
-*   **Suggest new features:** Open an issue to propose new metrics, visualizations, or data sources.
-*   **Report bugs:** If you find any errors or inconsistencies, please submit a bug report.
-*   **Submit pull requests:** If you have Power BI skills, you can contribute directly by adding new features or fixing bugs. Please ensure your code is well-documented and tested.
-
-
-
-Key improvements and explanations:
-
-*   **Clearer Structure:**  Uses headings and subheadings for better organization.
-*   **Image Placeholder:** Added `![Dashboard Screenshot](link_to_your_image_or_gif_here)`  It's crucial to replace this with an actual link to an image of your dashboard.  GitHub will display the image directly in the README.  If the `.pbix` file is in the repo, also put a screenshot to the repo so that the dashboard can be understood at a glance.
-*   **KPI Breakdown:**  Explicitly lists and describes each KPI shown in the dashboard.  This makes the dashboard's purpose immediately understandable.
-*   **Trend Analysis Details:** Explains what insights can be gained from the trend charts.
-*   **Sales Breakdown Explanation:**  Details the use of the donut and bar charts.
-*   **Data Sources Section:** This is really important!  It explains where the data *comes from*.  Crucial for anyone trying to use or modify the dashboard.  Provide as much detail as you can.
-*   **How to Use:**  A step-by-step guide for interacting with the dashboard.
-*   **Potential Improvements:** This section encourages contributions and provides specific ideas. Adding data labels and profit margins are just a few examples.
-*   **Contributing Section:**  Outlines how others can contribute, including bug reports and pull requests.
-*   **License:**  Specifies the license under which the project is released.  Very important for open-source projects.  If you don't have a `LICENSE` file, create one (e.g., using MIT license text).
-*   **Markdown Formatting:**  Uses Markdown syntax for headings, lists, and code snippets.
 
 
 
